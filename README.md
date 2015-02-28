@@ -29,11 +29,13 @@ At the far right there is a box containing the background colour editor. The bac
 
 Next, you can select the background pattern. There are 21 different patters you can use for the background, which is plenty. At the bottom of the box is a scrolly that lets you select a number from 0-4. The numbers indicate the level rating, so memorize the following chart:
 
+```
 0 - Simple
 1 - Challenging
 2 - Risky 
 3 - Hard
 4 - Extreme
+```
 
 When you play your level, you'll see the level rating displayed on the same screen as the level name.
 
@@ -44,12 +46,13 @@ Use the mouse to draw your level on the grid. You can select the blocks using th
 
 Then, use your mouse to select the 2 background colours, the background pattern and the level rating. Then, press S to save your level. Once you have several levels, use AQUALINK to link them together and then you can add it to AquaNoid.
 
+```
 S  - Save Level
 L  - Load Level from Disk
 G  - Toggle Grid on/off
 N  - Name Level
 Q  - Quit
-
+```
 
 #####Save Level
 
@@ -72,19 +75,19 @@ The name is displayed in the startup screen that is displayed before each level,
 
 
 #####Colour (Value)
-
-Brown         (0)
-Red           (10)
-Lt Blue       (20)
-Yellow        (30)
-Lt Green      (40)
-Lt Gray       (50)
-Purple        (60)
-Dark Blue     (70)
-Pink          (80)
-Dark Green    (90)
-Dark Gray     (100)
-
+```
+  Brown         (0)
+  Red           (10)
+  Lt Blue       (20)
+  Yellow        (30)
+  Lt Green      (40)
+  Lt Gray       (50)
+  Purple        (60)
+  Dark Blue     (70)
+  Pink          (80)
+  Dark Green    (90)
+  Dark Gray     (100)
+```
 
 ######Titans
 These blocks cannot be broken except with a blue shooter.
