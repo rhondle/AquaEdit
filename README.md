@@ -1,6 +1,6 @@
 # AquaEdit
 
-This is a level editor I built with my friend Alastair in 1996 for a shareware Arkanoid clone called Aquanoid.
+This is a level editor I built with my friend Alastair in 1995 for a shareware Arkanoid/Breakout clone called Aquanoid.
 
 I enjoyed the game, but being a broke kid I didn't have any money to buy the registered version so we built an editor to create new levels and breathe new life into the game.
 
@@ -129,4 +129,11 @@ step 1: Create an ASCII text file with a list of all the levels, in the order yo
 step 2: Run AQUALINK with the file containing the list as the parameter.
 
 step 3: Replace the DATA.AQA file that comes with your game with the newly created one.
+
+
+####The Game
+
+Obviously we are in no way affiliated with the original authors of Aquanoid; we were just some kids having fun writing code.
+
+If you're interested, you can still find copies of the original game floating around the net (example, here: http://www.dosgamesarchive.com/download/aquanoid/)
 
