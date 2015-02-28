@@ -1,7 +1,8 @@
 unit mouse;
 
 {
-Low level mouse interfacing with help from one of my most useful books "Advanced MS-DOS Programming: The Microsoft Guide for Assembly Language and C Programmers" by Ray Duncan, 1988 ISBN 1556151578
+Low level mouse interfacing with help from one of my most useful books "Advanced MS-DOS Programming: 
+The Microsoft Guide for Assembly Language and C Programmers" by Ray Duncan, 1988 ISBN 1556151578
 }
 
 interface
