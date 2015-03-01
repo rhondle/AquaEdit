@@ -6,6 +6,8 @@ I enjoyed the game, but being a broke kid I didn't have any money to buy the reg
 
 This program was never released until now, after discovering the code on an old backup disk some 19 years later!
 
+The editor was developed using Borland Turbo Pascal 6.0 (a gift from a great guy, Kevin Brandon in the early '90s, which got me started with programming).
+
 
 ####Requirements
 
