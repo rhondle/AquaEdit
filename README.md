@@ -8,6 +8,7 @@ This program was never released until now, after discovering the code on an old 
 
 The editor was developed using Borland Turbo Pascal 6.0 (a gift from a great guy, Kevin Brandon in the early '90s, which got me started with programming).
 
+#######The following was taken directly from the original documentation:
 
 ####Requirements
 
