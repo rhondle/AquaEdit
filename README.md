@@ -136,7 +136,7 @@ This program has been tested on the following machines:
 | Bondwell | 486/25 DLC | Trident
 | AST | 486/66 DX2 | VESA
 
-_(Don't laugh, these were classy machines in their day!! And remember, this is **very old** software)_
+_(Don't laugh, these were classy machines in their day!! And remember, this is **very old** software! However, if you really want to use this on a modern PC, it has been tested and runs on DOSBox just fine)_
 
 ## AquaLink
 
